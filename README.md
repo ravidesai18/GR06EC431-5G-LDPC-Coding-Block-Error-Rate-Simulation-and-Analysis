@@ -89,11 +89,11 @@ The simulation demonstrates the BLER performance of 5G LDPC codes over different
 ---
 
 ## **References**
- [1] IEEE, “5G NR Standard,” Available at: https://ieeexplore.ieee.org/, Ac
+- [1] IEEE, “5G NR Standard,” Available at: https://ieeexplore.ieee.org/, Ac
 cessed December 2024.
- [2] Gallager, R. G., “Low-Density Parity-Check Codes,” IEEE Transactions
+ -[2] Gallager, R. G., “Low-Density Parity-Check Codes,” IEEE Transactions
  on Information Theory, vol. 8, no. 1, pp. 21-28, 1962.
- [3] 3GPP TS 38.212, “Multiplexing and Channel Coding for 5G NR,” 3rd
+ -[3] 3GPP TS 38.212, “Multiplexing and Channel Coding for 5G NR,” 3rd
  Generation Partnership Project (3GPP), Release 15, 2018.
 
 
