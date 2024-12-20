@@ -1,5 +1,7 @@
 # **5G LDPC Coding Block Error Rate Simulation and Analysis**
 
+VIDEO LINK :     https://drive.google.com/file/d/1vKtoBCGKxUokvyj3Q5K5-qnZTcoV3_YS/view?usp=sharing
+
 ## **Project Overview**
 This repository contains a simulation and analysis of **5G LDPC (Low-Density Parity-Check) coding** to evaluate **Block Error Rate (BLER)**. LDPC codes are widely used in 5G NR (New Radio) due to their superior error-correcting performance. The analysis is performed using MATLAB simulations, leveraging cloud or cluster resources for computation.
 
@@ -89,5 +91,9 @@ The simulation demonstrates the BLER performance of 5G LDPC codes over different
 ## **References**
 1. MathWorks Documentation: [5G LDPC Simulation](https://in.mathworks.com/help/5g/ug/5g-ldpc-block-error-rate-simulation-using-the-cloud-or-a-cluster.html)
 2. 3GPP TS 38.212: Specification for 5G NR LDPC coding.
+
+
+
+
 
 
